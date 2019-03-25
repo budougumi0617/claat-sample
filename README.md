@@ -17,3 +17,5 @@ $ claat serve
 # ページの確認
 
 https://budougumi0617.github.io/claat-sample/
+
+![完成図](./codelab.png)
